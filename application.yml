@@ -2,8 +2,7 @@
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
- spring:
-   profiles: subject
+ spring.profiles: subject
  words: I,You,He,She,It
 
  spring.profiles: verb
